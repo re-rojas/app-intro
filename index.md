@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## App Mechón Sansano
 
 You can use the [editor on GitHub](https://github.com/re-rojas/app-intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
