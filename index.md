@@ -5,7 +5,8 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 ### Presentación (_30 de Octubre de 2020_)
 
-Este proyecto busca crear una aplicación móvil que facilite la vida del estudiante en el ámbito universitario
+En primer lugar, nos presentaremos. Somos un grupo de estudiantes de la UTFSM de Valparaíso que, ante la experiencia que tuvimos en este año, deseamos desarrollar una aplicación móvil para facilitar la comunicación de información relevante a estudiantes que están próximos a ingresar, o que recientemente se han incorporado a la Universidad en su primer año. Nuestra motivación para esto son las ganas de mejorar algo que en el inicio del año universitario para nosotros hizo bastante falta, que fue la falta de información.
+Este proyecto busca crear una aplicación móvil que facilite la vida del estudiante en el ámbito universitario, con funcionalidades que nos permitan optimizar el manejo entre paginas universitarias, proporcionarnos información necesaria y permitirnos una mejor organización.
 
 **Ideas de proyecto (en general):**
 
@@ -20,7 +21,7 @@ Mapa en 3d de la universidad en algún motor como Unity o UE.
 
 Links útiles, guías de uso y consejos esenciales: Aula, Siga, Cuentas USM para Drive, Microsoft 365 e instalación de Office, entre otros.
 
-Informaciones sobre matrículas y becas (fechas, etc)
+Informaciones sobre matrículas, becas (fechas, etc), intensivos, etc
 
 Calendario, notas(para poner correos,paralelos,horario)
 
@@ -47,18 +48,3 @@ Material Design
 
 Menú lateral para cambiar de secciones
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/re-rojas/app-intro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
