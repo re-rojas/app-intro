@@ -1,25 +1,52 @@
 ## App Mechón Sansano
 
-You can use the [editor on GitHub](https://github.com/re-rojas/app-intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Presentación (_30 de Octubre de 2020_)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Este proyecto busca crear una aplicación móvil que facilite la vida del estudiante en el ámbito universitario
 
-```markdown
-Syntax highlighted code block
+**Ideas de proyecto (en general):**
 
-# Header 1
-## Header 2
-### Header 3
+[App de información y utilidades para estudiantes de primer año (Electa)]
 
-- Bulleted
-- List
+App estilo cuestionario para estudiar ramos como progra 
 
-1. Numbered
-2. List
+Mapa en 3d de la universidad en algún motor como Unity o UE.
+
+
+**¿Posibles secciones y utilidades para la app? (sujetos a modificaciones)**
+
+Links útiles, guías de uso y consejos esenciales: Aula, Siga, Cuentas USM para Drive, Microsoft 365 e instalación de Office, entre otros.
+
+Informaciones sobre matrículas y becas (fechas, etc)
+
+Calendario, notas(para poner correos,paralelos,horario)
+
+Ramos, y sección para llevar cuenta de las notas de estos
+
+Mapa de la universidad (también enlace a ubicación de la universidad en Google Maps)
+
+
+
+**¿Lenguaje? ¿En qué hacemos la app?**
+[Flutter (dart) (hasta ahora nos hemos inclinado por esta opción)]
+
+Java (solo para android)
+
+¿Swift? (solo para iphone)
+
+React Native
+
+
+
+**Diseño y estructura de la app (Si es flutter):**
+
+Material Design
+
+Menú lateral para cambiar de secciones
+
 
 **Bold** and _Italic_ and `Code` text
 
