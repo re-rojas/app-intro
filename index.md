@@ -8,6 +8,8 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 En primer lugar, nos presentaremos. Somos un grupo de estudiantes de la UTFSM de Valparaíso que, ante la experiencia que tuvimos en este año, deseamos desarrollar una aplicación móvil para facilitar la comunicación de información relevante a estudiantes que están próximos a ingresar, o que recientemente se han incorporado a la Universidad en su primer año. Nuestra motivación para esto son las ganas de mejorar algo que en el inicio del año universitario para nosotros hizo bastante falta, que fue la falta de información.
 Este proyecto busca crear una aplicación móvil que facilite la vida del estudiante en el ámbito universitario, con funcionalidades que nos permitan optimizar el manejo entre paginas universitarias, proporcionarnos información necesaria y permitirnos una mejor organización.
 
+A continuación está el punteo de ideas, y las selecciones que tuvimos en las distintas reuniones que tuvimos como grupo: (Entre corchetes están las que fueron electas, si corresponde)
+
 **Ideas de proyecto (en general):**
 
 [App de información y utilidades para estudiantes de primer año (Electa)]
@@ -32,7 +34,8 @@ Mapa de la universidad (también enlace a ubicación de la universidad en Google
 
 
 **¿Lenguaje? ¿En qué hacemos la app?**
-[Flutter (dart) (hasta ahora nos hemos inclinado por esta opción)]
+
+[Flutter (dart) (Nos hemos inclinado por esta opción, por su carácter multiplataforma)]
 
 Java (solo para android)
 
