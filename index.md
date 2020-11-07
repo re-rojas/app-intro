@@ -71,6 +71,10 @@ El usuario se encontrará con una aplicación donde podrá acceder a un menú de
 
 En uno de estos apartados se encontrará la sección de mapa, donde el usuario podrá ver como llegar a la universidad, como moverse a través de ella (Por ejemplo, como llegar al casino).
 
+**Información**
+
+La información será recopilada por nosotros, desde distintas páginas de la UTSFM, si es necesario esta se irá actualizando.
+
 **API**
 
 Se utilizará una API de geolocalización llamada "_places API"_, una API desarrollada por google, que permite usar sus mapas y funciones, como StreetView.
