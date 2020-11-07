@@ -51,3 +51,28 @@ Material Design
 
 Menú lateral para cambiar de secciones
 
+
+### 3C USM (_7 de Noviembre de 2020_)
+**_Tipo de aplicación: móvil_**
+
+**Problemática abordada**
+
+Las personas recién egresadas puede que se encuentren con dificultades para encontrar toda la información necesaria para hacer su decisión de entrar a una universidad, aunque muchas de estás páginas contienen la información, pareciera que esta se esconde de nosotros.
+Nuestra aplicación pretende reunir toda esta información y ponerla en un lugar de fácil y rápido acceso, tanto como para alumnos que pretenden unirse a la UTFSM, y aquellos alumnos que ya llevan tiempo en ella.
+Además, la casa central se caracteriza por su enorme tamaño, incluso haciendo que profesores y alumnos antiguos, a veces, se desorienten. Ahora imaginemos que un alumno recién ingresado está intentando llegar a la biblióteca, ¿por donde empieza a buscar?.
+
+**Interacción**
+
+(_Idea principal, puede ser cambiada más adelante_)
+El usuario se encontrará con una aplicación donde podrá acceder a un menú desplegable que se encontrará al lado izquierdo de la pantalla, donde aparecera la información ordenada en diferentes _"pestañas"_, algunas de estás pueden ser: noticias, beneficios, ramos, deportes, carreras.
+
+(_Apartado sujeto a cambios drásticos_)
+En uno de estos apartados se encontrará la sección de mapa, donde el usuario podrá ver como llegar a la universidad, como moverse a través de ella (Por ejemplo, como llegar al casino).
+
+**API**
+
+Se utilizará una API de geolocalización llamada "_places API"_, una API desarrollada por google, que permite usar sus mapas y funciones, como StreetView.
+
+**Características**
+
+Una aplicación en donde se tiene fácil y rápido acceso a distintos tipos de información, que permita conocer el campus sin la necesidad de estar presencialemnte, y que permita la interacción del usuario para poder moverse alrededor de la universidad.
