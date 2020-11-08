@@ -57,7 +57,7 @@ Menú lateral para cambiar de secciones
 
 **Problemática abordada**
 
-Las personas recién egresadas puede que se encuentren con dificultades para encontrar toda la información necesaria para hacer su decisión de entrar a una universidad, aunque muchas de estás páginas contienen la información, pareciera que esta se esconde de nosotros.
+Las personas recién egresadas de la educación media puede que se encuentren con dificultades para encontrar toda la información necesaria para hacer su decisión de entrar a una universidad, aunque muchas de estás páginas contienen la información, pareciera que esta se esconde de nosotros.
 Nuestra aplicación pretende reunir toda esta información y ponerla en un lugar de fácil y rápido acceso, tanto como para alumnos que pretenden unirse a la UTFSM, y aquellos alumnos que ya llevan tiempo en ella.
 Además, la casa central se caracteriza por su enorme tamaño, incluso haciendo que profesores y alumnos antiguos, a veces, se desorienten. Ahora imaginemos que un alumno recién ingresado está intentando llegar a la biblióteca, ¿por donde empieza a buscar?.
 
