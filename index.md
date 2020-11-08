@@ -78,6 +78,10 @@ La información será recopilada por nosotros, desde distintas páginas de la UT
 
 Se utilizará una API de geolocalización llamada "_places API"_, una API desarrollada por google, que permite usar sus mapas y funciones, como StreetView.
 
+**Aplicaciones similares**
+
+Lo más cercano a esta app es google maps, pero este no aborda completamente el campus y da una visión demasiado general de la universidad.
+
 **Características**
 
-Una aplicación en donde se tiene fácil y rápido acceso a distintos tipos de información, que permita conocer el campus sin la necesidad de estar presencialemnte, y que permita la interacción del usuario para poder moverse alrededor de la universidad.
+Una aplicación en donde se tiene fácil y rápido acceso a distintos tipos de información, que permita conocer el campus sin la necesidad de estar presencialemnte, y que permita la interacción del usuario para poder moverse alrededor de la universidad de manera llamativa.
