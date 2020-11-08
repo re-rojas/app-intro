@@ -37,6 +37,8 @@ Lo más cercano a esta app es google maps, pero este no aborda completamente el 
 Una aplicación en donde se tiene fácil y rápido acceso a distintos tipos de información, que permita conocer el campus sin la necesidad de estar presencialemnte, y que permita la interacción del usuario para poder moverse alrededor de la universidad de manera llamativa.
 
 
+
+
 ### Presentación (_30 de Octubre de 2020_)
 
 En primer lugar, nos presentaremos. Somos un grupo de estudiantes de la UTFSM de Valparaíso que, ante la experiencia que tuvimos en este año, deseamos desarrollar una aplicación móvil para facilitar la comunicación de información relevante a estudiantes que están próximos a ingresar, o que recientemente se han incorporado a la Universidad en su primer año. Nuestra motivación para esto son las ganas de mejorar algo que en el inicio del año universitario para nosotros hizo bastante falta, que fue la falta de información.
