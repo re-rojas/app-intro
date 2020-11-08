@@ -65,8 +65,7 @@ Además, la casa central se caracteriza por su enorme tamaño, incluso haciendo 
 
 (_Idea principal, puede ser cambiada más adelante_)
 
-El usuario se encontrará con una aplicación donde podrá acceder a un menú desplegable que se encontrará al lado izquierdo de la pantalla, donde aparecera la información ordenada en diferentes _"pestañas"_, algunas de estás pueden ser: noticias, beneficios, ramos, deportes, carreras.
-
+El usuario se encontrará con una aplicación donde la interacción con la persona se llevará a cabo a través de un menú que permita la elección de visualización de mapa, en el que se mostrará la información.
 (_Apartado sujeto a cambios drásticos_)
 
 En uno de estos apartados se encontrará la sección de mapa, donde el usuario podrá ver como llegar a la universidad, como moverse a través de ella (Por ejemplo, como llegar al casino).
