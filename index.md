@@ -1,6 +1,13 @@
-## App Mechón Sansano
+## App 3C
 
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
+
+### Estableciendo funcionalidades del proyecto (_18 de Noviembre de 2020_)
+
+En primer lugar, decidimos que la tecnología a utilizar para realizar nuestra aplicación móvil será Flutter, pero además para lograr ciertas funcionalidades que pondremos más adelante, también integraremos Unity dentro de nuestra app.
+
+**Funcionalidades:**
+
 
 ### 3C USM (_7 de Noviembre de 2020_)
 **_Tipo de aplicación: móvil_**
