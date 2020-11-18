@@ -1,6 +1,8 @@
-## App 3C
+## App 3C - IWG-101
 
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
+
+<br />
 
 ### Estableciendo funcionalidades del proyecto (_18 de Noviembre de 2020_)
 
@@ -8,6 +10,18 @@ En primer lugar, decidimos que la tecnología a utilizar para realizar nuestra a
 
 **Funcionalidades:**
 
+Mapa 3d que nos permita tener una vista general de la universidad
+
+Utilizaremos realidad aumentada para generar una manera llamativa y dinamica que nos permita recorrer la universidad
+
+Mapa estatico que  nos permita conocer la universidad sin recurrir al mapa interactivo
+
+Se utilizara flutter + unity para desarrollar una mejor experiencia para el usuario con la ventaja de poder utilizarla en cualquier dispositivo movil
+
+Interaccion con objetos lo que nos permitira conocer de mejor manera el establecimiento
+
+<br />
+<br />
 
 ### 3C USM (_7 de Noviembre de 2020_)
 **_Tipo de aplicación: móvil_**
@@ -43,8 +57,8 @@ Lo más cercano a esta app es google maps, pero este no aborda completamente el 
 
 Una aplicación en donde se tiene fácil y rápido acceso a distintos tipos de información, que permita conocer el campus sin la necesidad de estar presencialemnte, y que permita la interacción del usuario para poder moverse alrededor de la universidad de manera llamativa.
 
-
-
+<br />
+<br />
 
 ### Presentación (_30 de Octubre de 2020_)
 
