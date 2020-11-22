@@ -4,6 +4,18 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 <br />
 
+### Planificación para las siguientes semanas (_21 de Noviembre de 2020_)
+
+_Semana del 23 al 29 de Noviembre_: Realización de la interfaz usuaria dentro de la aplicación en Flutter
+
+_Semana 30 al 6 de Diciembre_: Fase "beta" de mapa estático y dinámico
+
+_Semana del 7 al 13 de Diciembre_: Mapa estático finalizado
+
+_Semana del 14 al 18 de Diciembre_: Finalización de la app
+<br />
+<br />
+
 ### Estableciendo funcionalidades del proyecto (_18 de Noviembre de 2020_)
 
 En primer lugar, decidimos que la tecnología a utilizar para realizar nuestra aplicación móvil será Flutter, pero además para lograr ciertas funcionalidades que pondremos más adelante, también integraremos Unity dentro de nuestra app.
