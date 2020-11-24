@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: '3C USM',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: Colors.blue[800],
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: HomePage(),
