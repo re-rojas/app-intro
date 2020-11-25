@@ -4,6 +4,20 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 <br />
 
+### Avances interfaz usuaria (_25 de Noviembre de 2020_)
+
+
+Se logró realizar una interfaz de usuario funcional con varias pestañas que van a tener los distintos contenidos que iremos implementando en la app, todo esto se logró realizar con Dart, el lenguaje por defecto que ocupa Flutter. 
+
+<br />
+
+![](images/S1f1.png)
+
+![](images/S1f2.png)
+
+
+<br />
+
 ### Planificación para las siguientes semanas (_21 de Noviembre de 2020_)
 
 _Semana del 23 al 29 de Noviembre_: Realización de la interfaz usuaria dentro de la aplicación en Flutter
