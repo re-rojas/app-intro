@@ -1,3 +1,5 @@
+//mapa interactivo
+
 import 'package:flutter/material.dart';
 
 class Tab2 extends StatelessWidget {
