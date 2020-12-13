@@ -4,6 +4,31 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 <br />
 
+### Avances elementos de la app (_25 de Noviembre de 2020_)
+
+Dada la cercanía del segundo avance, creemos que es relevante dar a conocer como va avanzando el proceso de los distintos elementos que se están desarrollando en Unity, y que posteriormente serán integrados a la interfaz que fué dada a conocer en el post anterior.
+
+**_Parte 1:_**
+
+
+<br/>
+
+**_Parte 2:_**
+
+
+<br/>
+
+**_Parte 3: Realidad Aumentada_**
+Para esta sección de la app, ya se está en un estado funcional, donde esta ya ha sido probada individualmente en un dispositivo iOS, sin embargo, falta hacer el modelo final que estará en la app, que se está realizando en Blender, y que posteriormente será importado a Unity.
+
+![](images/S2f2.jpeg)
+
+![](images/S2f1.jpeg)
+
+![](images/S2f3.png)
+
+<br />
+
 ### Avances interfaz usuaria (_25 de Noviembre de 2020_)
 
 
