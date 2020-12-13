@@ -9,7 +9,7 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 Dada la cercanía del segundo avance, creemos que es relevante dar a conocer como va avanzando el proceso de los distintos elementos que se están desarrollando en Unity, y que posteriormente serán integrados a la interfaz que fué dada a conocer en el post anterior.
 
 **_Parte 1:_**
-![](Screenshot (14).png)
+![](images/S2f4.png)
 ![](Screenshot (15).png)
 ![](Screenshot (16).png)
 
