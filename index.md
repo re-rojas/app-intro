@@ -9,7 +9,9 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 Dada la cercanía del segundo avance, creemos que es relevante dar a conocer como va avanzando el proceso de los distintos elementos que se están desarrollando en Unity, y que posteriormente serán integrados a la interfaz que fué dada a conocer en el post anterior.
 
 **_Parte 1:_**
-![](images/S2f2.jpeg)
+![](images/Screenshot (14).png)
+![](images/Screenshot (15).png)
+![](images/Screenshot (16).png)
 
 
 <br/>
@@ -22,7 +24,7 @@ Dada la cercanía del segundo avance, creemos que es relevante dar a conocer com
 **_Parte 3: Realidad Aumentada_**
 Para esta sección de la app, ya se está en un estado funcional, donde esta ya ha sido probada individualmente en un dispositivo iOS, sin embargo, falta hacer el modelo final que estará en la app, que se está realizando en Blender, y que posteriormente será importado a Unity.
 
-![](images/S2f2.jpeg)
+Screenshot (14).pngS2f2.jpeg)
 
 ![](images/S2f1.jpeg)
 
