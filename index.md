@@ -24,7 +24,7 @@ Dada la cercanía del segundo avance, creemos que es relevante dar a conocer com
 **_Parte 3: Realidad Aumentada_**
 Para esta sección de la app, ya se está en un estado funcional, donde esta ya ha sido probada individualmente en un dispositivo iOS, sin embargo, falta hacer el modelo final que estará en la app, que se está realizando en Blender, y que posteriormente será importado a Unity.
 
-Screenshot (14).pngS2f2.jpeg)
+![](images/S2f2.jpeg)
 
 ![](images/S2f1.jpeg)
 
