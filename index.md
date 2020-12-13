@@ -20,7 +20,8 @@ Esta sección de la app  se encuentra en un estado funcional pero carece de imag
 
 <br/>
 
-**_Parte 2:_**
+**_Parte 2: Mapa Dinámico_**
+Esta sección se encuentra funcional. Se procederá a terminar los modelos de los edificios y mejorar el terreno de la zona del campus.
 
 
 <br/>
