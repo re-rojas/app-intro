@@ -10,11 +10,11 @@ Dada la cercanía del segundo avance, creemos que es relevante dar a conocer com
 
 **_Parte 1:_**
 <br/>
-![](images/Screenshot(14).png)
+![](images/Screenshot%20(14).png)
 
-![](images/Screenshot(15).png)
+![](images/Screenshot%20(15).png)
 
-![](images/Screenshot(16).png)
+![](images/Screenshot%20(16).png)
 
 
 <br/>
