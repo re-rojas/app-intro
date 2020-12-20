@@ -7,6 +7,7 @@ Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 
 **_Parte 1: Mapa estático_**
+
 Programa ejecutandose en un dispositivo móvil.
 <br/>
 ![](images/parte11.jfif)
@@ -14,6 +15,7 @@ Programa ejecutandose en un dispositivo móvil.
 ![](images/parte1-2.jfif)
 
 **_Parte 2: Mapa dinámico_**
+
 Modelado de los edificios terminado.
 <br/>
 ![](images/modelre.PNG)
