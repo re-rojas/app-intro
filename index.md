@@ -2,7 +2,7 @@
 
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
-<br/>
+<br/ >
 ### Avances elementos de la app (_19 de diciembre de 2020_)
 
 
@@ -11,7 +11,7 @@ Programa ejecutandose en un dispositivo móvil.
 <br/>
 ![](images/parte11.jfif)
 
-![](images/parte12.jfif)
+![](images/parte 12.jfif)
 
 **_Parte 2: Mapa dinámico_**
 Modelado de los edificios terminado.
