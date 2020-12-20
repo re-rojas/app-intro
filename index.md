@@ -2,7 +2,7 @@
 
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
-<br/ >
+
 ### Avances elementos de la app (_19 de diciembre de 2020_)
 
 
