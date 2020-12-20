@@ -11,7 +11,7 @@ Programa ejecutandose en un dispositivo móvil.
 <br/>
 ![](images/parte11.jfif)
 
-![](images/parte 12.jfif)
+![](images/parte1-2.jfif)
 
 **_Parte 2: Mapa dinámico_**
 Modelado de los edificios terminado.
