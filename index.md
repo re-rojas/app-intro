@@ -3,6 +3,12 @@
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 <br />
+### Avances elementos de la app (_19 de diciembre de 2020_)
+
+Se ha finalizado el modelado 3D de los edificios del campus.
+
+![](images/modelre.PNG)
+
 
 ### Avances elementos de la app (_12 de diciembre de 2020_)
 
