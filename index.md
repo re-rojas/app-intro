@@ -20,7 +20,7 @@ Modelado de los edificios terminado.
 
 
 
-<br/ >
+
 ### Avances elementos de la app (_12 de diciembre de 2020_)
 
 
