@@ -2,13 +2,22 @@
 
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
+<br/ >
+### Avances elementos de la app (_19 de diciembre de 2020_)
+
+
+**_Parte 1: Mapa estático_**
+
+
+
 <br/>
 ### Avances elementos de la app (_12 de diciembre de 2020_)
 
 
 Dada la cercanía del segundo avance, creemos que es relevante dar a conocer como va avanzando el proceso de los distintos elementos que se están desarrollando en Unity, y que posteriormente serán integrados a la interfaz que fué dada a conocer en el post anterior.
 
-**_Parte 1: Mapa estatico_**
+
+**_Parte 1: Mapa estático_**
 Esta sección de la app  se encuentra en un estado funcional pero carece de imagenes para la totalidad de camaras existentes dentro de esta.
 <br/>
 ![](images/Screenshot%20(14).png)
