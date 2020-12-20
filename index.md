@@ -3,13 +3,6 @@
 Estudiantes: Ignacio Arcos, Jorge Orellana, Rolando Rojas.
 
 <br />
-### Avances elementos de la app (_19 de diciembre de 2020_)
-
-Se ha finalizado el modelado 3D de los edificios del campus.
-
-![](images/modelre.PNG)
-
-
 ### Avances elementos de la app (_12 de diciembre de 2020_)
 
 Dada la cercanía del segundo avance, creemos que es relevante dar a conocer como va avanzando el proceso de los distintos elementos que se están desarrollando en Unity, y que posteriormente serán integrados a la interfaz que fué dada a conocer en el post anterior.
