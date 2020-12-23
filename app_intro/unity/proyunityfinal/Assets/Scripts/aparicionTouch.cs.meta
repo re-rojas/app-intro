@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 09eda1aec41bf4d68b7a63395ba6eabc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapa3dUniversidad: {fileID: 919132149155446097, guid: 8bc9f41c0492a4a659dc346bfa337fb3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
